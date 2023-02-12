@@ -59,3 +59,6 @@ def check_goose(name):
     if name ==  "John":
         print('Hi John!')
 
+goose_name = check_goose()
+
+goose_name.run_game()
