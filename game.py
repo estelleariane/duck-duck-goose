@@ -53,3 +53,9 @@ def run_game() -> None:
 # run the main routine
 if __name__ == '__main__':
     run_game()
+
+
+def check_goose(name):
+    if name ==  "John":
+        print('Hi John!')
+
